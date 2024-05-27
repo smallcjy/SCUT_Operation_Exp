@@ -1,9 +1,9 @@
-#include<iostream>
+#include<stdio.h>
 
 int
 main(){
-	int n = 0;
-	std::cout<<n<<std::endl;
+	int n = 111;
+	printf("%d\n", n);
 	return 0;
 }
 
